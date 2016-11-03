@@ -10,6 +10,9 @@ Arc Gtk Theme customized for Ubuntu 16.04!
 `git clone https://github.com/sagarpanchal/arc-theme-ubuntu.git`
 
 `cp -r arc-theme-ubuntu/Arc* . && rm -rf arc-theme-ubuntu && exit`
+
+`gsettings set org.gnome.desktop.interface gtk-theme 'Arc-Darker'`
+
 ### Customized Icon Backgrounds
 ![A screenshot of the Arc theme on Ubuntu 16.04](https://raw.githubusercontent.com/sagarpanchal/arc-theme-ubuntu/master/screenshots/screen_1_1600x900.png "Application Switcher on Ubuntu 16.04")
 ### Arc is available in three variants
